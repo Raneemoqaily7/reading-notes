@@ -84,7 +84,7 @@ The structure of the new table is defined by its table schema, which defines a s
 
 If there already exists a table with the same name, the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists, you can use the IF NOT EXISTS clause.
 
-![ex16](./Sql exercise16.png)
+![exercise16](./Sql exercise16.png)
 
 -  Altering tables
 As your data changes over time, SQL provides a way for you to update your corresponding tables and database schemas by using the ALTER TABLE statement to add, remove, or modify columns and table constraints.
