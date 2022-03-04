@@ -76,13 +76,13 @@ One helpful tip is to always write the constraint first and test it in a SELECT 
 - Deleting rows
 When you need to delete data from a table in the database, you can use a DELETE statement, which describes the table to act on, and the rows of the table to delete through the WHERE clause.
 Like the UPDATE statement from last lesson, it's recommended that you run the constraint in a SELECT query first to ensure that you are removing the right rows. Without a proper backup or test database, it is downright easy to irrevocably remove data, so always read your DELETE statements twice and execute once.
-![ex15](./sql exercise 15.png)
+![excercise15](./sql exercise 15.png)
 
 - Creating tables
 When you have new entities and relationships to store in your database, you can create a new database table using the CREATE TABLE statement.
 The structure of the new table is defined by its table schema, which defines a series of columns. Each column has a name, the type of data allowed in that column, an optional table constraint on values being inserted, and an optional default value.
 
-If there already exists a table with the same name, the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists, you can use the IF NOT EXISTS clause.
+If there already exists a table with the same name , the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists, you can use the IF NOT EXISTS clause.
 
 ![exercise16](./Sql exercise16.png)
 
