@@ -26,5 +26,6 @@ ___
 | Terminal  |[TerminalOperation_Notes](./Terminal.md)|
 | SQL       |[SQL_Notes](./database%20and%20sql.md)|
 | Mindset     | [Mindset_Notes](./mindset..md)|
-|Prep: Career Coaching Status Report|[prep](./Prep%3ACareer%20Coaching.md)
+|Prep: Career Coaching Status Report|[prep](./Prep%3ACareer%20Coaching.md)|
+|Read 4|[Class and Objects](./read4.md)|
 ---
