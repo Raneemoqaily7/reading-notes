@@ -11,7 +11,7 @@ This website containes the reading notes from the beginning of the course .
 
 ___
 ## *Code 201 - Foundations of Software Development*
-![ptyhon core certifecate](./python core certifecate.png)
+![ptyhon core certifecate](./python%20core%20certifecate.png)
 
 ___
 
