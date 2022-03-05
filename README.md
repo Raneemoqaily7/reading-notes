@@ -24,7 +24,7 @@ ___
 | Title    | Link |
 |----------|:-------------:|
 | Terminal  |[TerminalOperation_Notes](./Terminal.md)|
-| SQL      | [SQL_Notes](./database and sql.md)|
+| SQL       |[SQL_Notes](./database%20and%20sql.md)|
 | Mindset     | [Mindset_Notes](./mindset..md)|
-|Prep: Career Coaching Status Report|[prep](./Prep:Career Coaching.md)
+|Prep: Career Coaching Status Report|[prep](./Prep%3ACareer%20Coaching.md)
 ---
