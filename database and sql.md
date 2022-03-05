@@ -20,8 +20,8 @@ Structured Query Language and simply put,it is a standard lannguage for dealing 
  
  Used to elect data from database , the data that returned called result-set.
  if you want to select all the data SELECT * FROM my_table
- 
- ![SELECT EXERCISE](./sql_excercise1.png)
+
+ ![SELECT EXERCISE](./images/sql_excercise1.png)
 
  - WHERE
  Limiting queries is one way to filter down result sets, but we can get a lot more specific with the WHERE clause. The WHERE command is followed by the conditions you’d like to
