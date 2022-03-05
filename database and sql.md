@@ -20,6 +20,7 @@ Structured Query Language and simply put,it is a standard lannguage for dealing 
  
  Used to elect data from database , the data that returned called result-set.
  if you want to select all the data SELECT * FROM my_table
+ 
  ![SELECT EXERCISE](./sql_excercise1.png)
 
  - WHERE
