@@ -55,29 +55,29 @@ sometimes you’ll want to sort them differently. You can do that with the “OR
 When an ORDER BY clause is specified, each row is sorted alpha-numerically based on the specified column's value. In some databases, you can also specify a collation to better sort data containing international text.
 
 - Simple SELECT Queries
-![example](./images//)
+![example](./images/Sql%20Review%20.png)
 
 - Multi-table queries with JOINs
 Entity data in the real world is often broken down into pieces and stored across multiple orthogonal tables using a process known as normalization.
 Database normalization is a database schema design technique, by which an existing schema is modified to minimize redundancy and dependency of data. Normalization split a large table into smaller tables and define relationships between them to increases the clarity in organizing data.
-![normalization](./Sql exercise 6.png)
+![normalization](./images/Sql%20exercise%206.png)
 
 - inserting rows
 When inserting data into a database, we need to use an INSERT statement, which declares which table to write into, the columns of data that we are filling, and one or more rows of data to insert. In general, each row of data you insert should contain values for every corresponding column in the table. You can insert multiple rows at a time by just listing them sequentially.
 
-![ex13](./SQL exercise 13.png)
+![ex13](./images/SQL%20exercise%2013.png)
 
 - Updating rows
 In addition to adding new data, a common task is to update existing data, which can be done using an UPDATE statement. Similar to the INSERT statement, you have to specify exactly which table, columns, and rows to update. In addition, the data you are updating has to match the data type of the columns in the table schema.
 Most people working with SQL will make mistakes updating data at one point or another. Whether it's updating the wrong set of rows in a production database, or accidentally leaving out the WHERE clause (which causes the update to apply to all rows), you need to be extra careful when constructing UPDATE statements.
 
 One helpful tip is to always write the constraint first and test it in a SELECT query to make sure you are updating the right rows, and only then writing the column/value pairs to update.
-![ex14](./sql exercise14.png)
+![ex14](./images/sql%20exercise14.png)
 
 - Deleting rows
 When you need to delete data from a table in the database, you can use a DELETE statement, which describes the table to act on, and the rows of the table to delete through the WHERE clause.
 Like the UPDATE statement from last lesson, it's recommended that you run the constraint in a SELECT query first to ensure that you are removing the right rows. Without a proper backup or test database, it is downright easy to irrevocably remove data, so always read your DELETE statements twice and execute once.
-![excercise15](./sql exercise 15.png)
+![excercise15](./images/sql%20exercise%2015.png)
 
 - Creating tables
 When you have new entities and relationships to store in your database, you can create a new database table using the CREATE TABLE statement.
@@ -85,7 +85,7 @@ The structure of the new table is defined by its table schema, which defines a s
 
 If there already exists a table with the same name , the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists, you can use the IF NOT EXISTS clause.
 
-![exercise16](./Sql exercise16.png)
+![exercise16](./images/Sql%20exercise16.png)
 
 -  Altering tables
 As your data changes over time, SQL provides a way for you to update your corresponding tables and database schemas by using the ALTER TABLE statement to add, remove, or modify columns and table constraints.
@@ -109,13 +109,13 @@ If you need to rename the table itself, you can also do that using the RENAME TO
 ALTER TABLE mytable
 RENAME TO new_table_name;
 
-![ex](./sql exercise 17.png)
+![ex](./images/sql%20exercise%2017.png)
 
 - -Dropping tables
 In some rare cases, you may want to remove an entire table including all of its data and metadata, and to do so, you can use the DROP TABLE statement, which differs from the DELETE statement in that it also removes the table schema from the database entirely.
 
 DROP TABLE IF EXISTS mytable;
-![](./sql exercise 18.png)
+![](./images/sql%20exercise%2018.png)
 
 [Back To Main](./README.md)
 
