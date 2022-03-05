@@ -29,7 +29,7 @@ filter by.
 Conditions are simply statements that are either true or false. The database takes these
 statements and evaluates them across all the rows as it scans through your tables and only
 returns the results that are true.
-![WHERE](./sql exercise2.png)
+![WHERE](./images/sql%20exercise2.png)
 
 
 - Queries with constraints
@@ -44,18 +44,18 @@ SQL supports a number of useful operators to do things like case-insensitive str
 |IN (…)	|String exists in a list|
 |NOT IN (…)	|String does not exist in a list|
 ---
-![LIKE](./sql exercise 3.png)
+![LIKE](./images/sql%20exercise%203.png)
 
 - Filtering and sorting Query results
 By default results are returned in the order that they’re stored in the database. But
 sometimes you’ll want to sort them differently. You can do that with the “ORDER BY”
 
-![ODRDER_BY](./sql exercise 4.png)
+![ODRDER_BY](./images/sql%20exercise%204.png)
 
 When an ORDER BY clause is specified, each row is sorted alpha-numerically based on the specified column's value. In some databases, you can also specify a collation to better sort data containing international text.
 
 - Simple SELECT Queries
-![example](./Sql Review .png)
+![example](./images//)
 
 - Multi-table queries with JOINs
 Entity data in the real world is often broken down into pieces and stored across multiple orthogonal tables using a process known as normalization.
