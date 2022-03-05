@@ -58,14 +58,14 @@ print (p.color) ==> output =Black
 
 Note: The __init__() function is called automatically every time the class is being used to create a new object.
 
-##### To Practice Try This Excercise at 
+### To Practice Try This Excercise at 
 [Classes and Objects exercise](https://www.learnpython.org/en/Classes_and_Objects#google_vignette)
 
 ![show solution](./images/exe_obj_and_class.png)
 
 # Thinking Recursively
 
-![image](./images/recursion.png)
+                ![image](./images/recursion.png)
 <!-- THIS IMAGE TAKEN FROM https://realpython.com/python-thinking-recursively/ -->
 
 Problems (in life and also in computer science) can often seem big and scary. But if we keep chipping away at them, more often than not we can break them down into smaller chunks trivial enough to solve. This is the essence of thinking recursively
