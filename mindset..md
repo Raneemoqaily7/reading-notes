@@ -17,7 +17,6 @@ My score was 94 out of 120 which mean that i made some progress in this area but
  - Which of the areas is your weakest? EFFECTIVE COURAGE
  - Which of the areas will you focus on in the coming weeks and beyond? EFFECTIVE COURAGE and FOUR WAYS TO ACT
  ![biAS_assesment](./images/bias%20self%20asesment.png)
-
- [url](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
+ [self managment url](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
 
 [Back To Main](./README.md)
