@@ -12,6 +12,7 @@ Self-Awareness : 19 Self-Management : 19 Social Awareness : 20 Relationship Mana
 
 # Bias Self-Assessment   
 [self managment url](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
+
 My score was 94 out of 120 which mean that i made some progress in this area but still have room to grow.
 
  - Which of the areas is your strongest? BIAS AND IDENTITY
