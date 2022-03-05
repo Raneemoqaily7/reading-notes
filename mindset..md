@@ -10,13 +10,14 @@ Self-Awareness : 19 Self-Management : 19 Social Awareness : 20 Relationship Mana
  According to Greeter Good in Educatio I have to improve my emotional intelligance , mainly the Self-Awareness and the Self-Management.
  [url](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf)
 
-# Bias Self-Assessment
+# Bias Self-Assessment   
+[self managment url](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
 My score was 94 out of 120 which mean that i made some progress in this area but still have room to grow.
 
  - Which of the areas is your strongest? BIAS AND IDENTITY
  - Which of the areas is your weakest? EFFECTIVE COURAGE
  - Which of the areas will you focus on in the coming weeks and beyond? EFFECTIVE COURAGE and FOUR WAYS TO ACT
  ![biAS_assesment](./images/bias%20self%20asesment.png)
- [self managment url](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
+
 
 [Back To Main](./README.md)
