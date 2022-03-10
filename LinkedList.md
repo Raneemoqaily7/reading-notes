@@ -103,6 +103,6 @@ Following are the basic operations supported by a list.
 
 Insertion − Adds an element at the beginning of the list.
 
-Deletion − Deletes an element at the beginning of the list.
+Deletion − Deletes an element at the beginning of  list.
 
 Insert Last − Adds an element at the end of the list.
