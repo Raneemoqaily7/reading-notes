@@ -1,4 +1,4 @@
-#Big O: Analysis of Algorithm Efficiency
+# Big O: Analysis of Algorithm Efficiency
 Big O(oh) notation is used to describe the efficiency of an algorithm or function
 
 - Running Time (also known as time efficiency / complexity)
@@ -23,8 +23,8 @@ C>0 there exists a positive real number d such that for all x with |x - a| < d
 we have |f(x)| < C |g(x)|; if g(x) 0, this is equivalent to limx -> a f(x)/g(x) = 0.
 
 
- Acommon error is to confuse these by using O when  is meant. For example, one might
-say "heapsort is O(n log n)" when the intended meaning was "heapsort is (n log n)".
+ Acommon error is to confuse these by using O when  is meant. For example, one might
+say "heapsort is O(n log n)" when the intended meaning was "heapsort is (n log n)".
 Both statements are true, but the latter is a stronger claim.
 The notations described here are very useful. They are used for approximating formulas
 for analysis of algorithms, and for the definitions of terms in complexity theory (e.g.
