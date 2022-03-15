@@ -38,7 +38,7 @@ class Person:
 
 print(dir(Person))
 
-output ==>
+output ==>['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'age', 'country', 'name']
 
 # The nonlocal Statement
 Similarly to global names, nonlocal names can be accessed from inner functions, but not assigned or updated. If you want to modify them, then you need to use a nonlocal statement
@@ -67,3 +67,4 @@ nonlocal variable is not used for a variable which is not in nesting scope.
 
 * Resources 
 zero academy school / GeekforGeek/W3schol
+[Back Main](./README.md)
