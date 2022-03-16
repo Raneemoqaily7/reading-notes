@@ -32,12 +32,12 @@ example:    `def randomizer():`
 
 ctr = [(4, 1), (6, 1), (5, 1), (3, 1), (1, 2)]
 
-`print(ctr.most_common(2))`        ***Output -->   [(4, 1), (6, 1)]***
-`print((ctr.most_common()[0]))`   ***Output -->[(4, 1)]***
-`print(ctr.most_common(1))`        ***Output -->(4, 1)***
-`print(ctr.most_common(1)[0][1])`  ***Output --> 1***
-`print(ctr.most_common(2)[1])`     ***Output -->1***
-`print((ctr.most_common(2)[0]))`   ***Output -->6***
+- `print(ctr.most_common(2))`        ***Output -->   [(4, 1), (6, 1)]***
+- `print((ctr.most_common()[0]))`   ***Output -->[(4, 1)]***
+- `print(ctr.most_common(1))`        ***Output -->(4, 1)***
+- `print(ctr.most_common(1)[0][1])`  ***Output --> 1***
+- `print(ctr.most_common(2)[1])`     ***Output -->1***
+- `print((ctr.most_common(2)[0]))`   ***Output -->6***
 
 ***if ctr.most_common()[0][1] == 1 --> check if the all values of ctr is 1***
 
