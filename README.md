@@ -31,5 +31,5 @@ ___
 |LinkedList|[linkedlist](./linkedlist.md)|
 |read6|[Random Moudle and Risk Analysis](./read6.md)
 |read7|[Python scopes](./read%207.md)|
-|learning Journal|[What I Learned](./Learning_Journal7.md)|
+|learning Journal7|[What I Learned](./Learning_Journal7.md)|
 ---
