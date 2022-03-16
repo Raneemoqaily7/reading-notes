@@ -32,7 +32,7 @@ example:    `def randomizer():`
 
 ctr = [(4, 1), (6, 1), (5, 1), (3, 1), (1, 2)]
 
-- print(ctr.most_common(2))        ***Output -->   [(4, 1), (6, 1)]***
+ `print(ctr.most_common(2))`        ***Output -->   [(4, 1), (6, 1)]***
 - print((ctr.most_common()[0]))   ***Output -->[(4, 1)] ***
 - print(ctr.most_common(1))        ***Output -->(4, 1) ***
 - print(ctr.most_common(1)[0][1]) ***Output --> 1 ***
