@@ -21,10 +21,10 @@ example:    `def randomizer():`
 ### Counter from Collections
 - Counter is a collection where elements are stored as dectionary keys and their counts are  stored as dictionary values 
 
-`from collections import Counter
+```from collections import Counter
     
     ctr = Counter(roll)
-    print ( ctr)`
+    print ( ctr)```
     
 - ***Output --> Counter({1: 2, 5: 1, 6: 1, 2: 1, 3: 1})***
 
