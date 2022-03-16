@@ -30,5 +30,6 @@ ___
 |Read 4|[Class and Objects](./read4.md)|
 |LinkedList|[linkedlist](./linkedlist.md)|
 |read6|[Random Moudle and Risk Analysis](./read6.md)
-|read7|[Python scopes](./read%207.md)
+|read7|[Python scopes](./read%207.md)|
+|learning Journal|[What I Learned](./Learning_Journal7.md)|
 ---
