@@ -33,4 +33,6 @@ ___
 |read7|[Python scopes](./read%207.md)|
 |read8|[List Comprehensions](./read8.md)
 |learning Journal7|[What I Learned](./Learning_Journal7.md)|
+|read9|[read9](./read9.md)|
+|learning journal8|[WWhat I learned](./learning_journal8.md)|
 ---
