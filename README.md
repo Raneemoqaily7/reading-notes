@@ -37,4 +37,5 @@ ___
 |learning journal8|[What I Learned Today](./learning_journal8.md)|
 |learning journal9|[What I Learned Today](./learnining_journal9.md)|
 |read10|[Stacks and Queues](./read10.md)|
+|learning journal10|[What I Learned Today](./learning_journal10.md)|
 ---
