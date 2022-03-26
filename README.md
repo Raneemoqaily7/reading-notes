@@ -32,7 +32,8 @@ ___
 |read6|[Random Moudle and Risk Analysis](./read6.md)
 |read7|[Python scopes](./read%207.md)|
 |read8|[List Comprehensions](./read8.md)
-|learning Journal7|[What I Learned](./Learning_Journal7.md)|
+|learning Journal7|[What I Learned Today](./Learning_Journal7.md)|
 |read9|[read9](./read9.md)|
-|learning journal8|[WWhat I learned](./learning_journal8.md)|
+|learning journal8|[What I Learned Today](./learning_journal8.md)|
+|learning journal9|[What I Learned Today](./learnining_journal9.md)|
 ---
