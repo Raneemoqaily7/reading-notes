@@ -31,14 +31,14 @@ ___
 |LinkedList|[linkedlist](./linkedlist.md)|
 |read6|[Random Moudle and Risk Analysis](./read6.md)
 |read7|[Python scopes](./read%207.md)|
-|read8|[List Comprehensions](./read8.md)
 |learning Journal7|[What I Learned Today](./Learning_Journal7.md)|
-|read9|[read9](./read9.md)|
+|read8|[List Comprehensions](./read8.md)
 |learning journal8|[What I Learned Today](./learning_journal8.md)|
+|read9|[read9](./read9.md)|
 |learning journal9|[What I Learned Today](./learnining_journal9.md)|
 |read10|[Stacks and Queues](./read10.md)|
 |learning journal10|[What I Learned Today](./learning_journal10.md)|
 |read11|[Numpy ](./read11.md)|
 |learning journal1|[What I Learned](./learning_journal11.md)|
-|
+|learning journal 12|[What I Learned](./learning_journal12.md)|
 ---
