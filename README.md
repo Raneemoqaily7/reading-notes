@@ -40,5 +40,6 @@ ___
 |learning journal10|[What I Learned Today](./learning_journal10.md)|
 |read11|[Numpy ](./read11.md)|
 |learning journal1|[What I Learned](./learning_journal11.md)|
+|read12| [Pandas for dataScience](./read12.md)|
 |learning journal 12|[What I Learned](./learning_journal12.md)|
 ---
