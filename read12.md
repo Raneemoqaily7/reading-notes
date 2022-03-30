@@ -1,7 +1,4 @@
-# What I Learned Today
-- Pandas officially stands for ‘Python Data Analysis Library’, THE most important Python tool used by Data Scientists today.
-- The Pandas library one of the most preferred tools sfor data scintestic to do manipulation and analysis , next to matplotib for data visulazation and Numpy , the fundamental library for scintific , computing in python on which pandas was built .
-- Data manipulation : The abiltiy to deal with data for analysis and  do some operation for the data mo matter how bid is it .
+
 
 # What is Pandas and How does it work ?
 
