@@ -5,19 +5,19 @@
 -  Determain the Final  Goal
 -  Select  What Variables (Features)effect process(Independent Features)
 -  finde a realation  between the features(variables) and the decession that we made .
- 1.  Aquire a big set of data 
+ - 1.  Aquire a big set of data 
 
- 2.  Classify the data 
+ - 2.  Classify the data 
 
- 3.  Load the data into ML model 
+ - 3.  Load the data into ML model 
 
- 4.  Train the model == >Usually(80% of data take randomly for train data ) 
+-  4.  Train the model == >Usually(80% of data take randomly for train data ) 
 
- 5.  Test the model == >(20 % of data take for test  ) 
+-  5.  Test the model == >(20 % of data take for test  ) 
 
- 6.  Approve on the accuracy of the predections .
- 
- 7.  Use the modul to predict
+-  6.  Approve on the accuracy of the predections .
+
+-  7.  Use the modul to predict
 
 -  Result will provide based in the relarion 
 
