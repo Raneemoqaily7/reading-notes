@@ -43,4 +43,5 @@ ___
 |read12| [Pandas for dataScience](./read12.md)|
 |learning journal 12|[What I Learned](./learning_journal12.md)|
 |read13|[Linear Regressions](./read13.md)|
+|read14|[What I Learned](./Learning_Journal13.md)|
 ---
