@@ -2,18 +2,18 @@
 ## Linear regression
 
 - Important points in the process
-1. Determain the Final  Goal
-2. Select  What Variables (Features)effect process(Independent Features)
-3. finde a realation  between the features(variables) and the decession that we made .
-                    1.  Aquire a big set of data 
-                    2.  Classify the data 
-                    3.  Load the data into ML model 
-                    4.  Train the model == >Usually(80% of data take randomly for train data ) 
-                    5.  Test the model == >(20 % of data take for test  ) 
-                    6.  Approve on the accuracy of the predections .
-                    7.  Use the modul to predict
+-  Determain the Final  Goal
+-  Select  What Variables (Features)effect process(Independent Features)
+-  finde a realation  between the features(variables) and the decession that we made .
+ 1.  Aquire a big set of data 
+ 2.  Classify the data 
+ 3.  Load the data into ML model 
+ 4.  Train the model == >Usually(80% of data take randomly for train data ) 
+ 5.  Test the model == >(20 % of data take for test  ) 
+ 6.  Approve on the accuracy of the predections .
+ 7.  Use the modul to predict
 
- 4. Result will provide based in the relarion 
+-  Result will provide based in the relarion 
 
 
 - **Scikit-learn** is a powerful Python module for machine learning. It contains function for regression, classification, clustering, model selection and dimensionality reduction.
