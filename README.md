@@ -45,4 +45,5 @@ ___
 |read13|[Linear Regressions](./read13.md)|
 |learning journal13|[What I Learned](./Learning_Journal13.md)|
 |read14|[Data Visualization](./read14.md)|
+|learnin journal14|[What I Learned](./learning_journal14.md)|
 ---
