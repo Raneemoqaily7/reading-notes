@@ -8,52 +8,48 @@ A tree consists of a root node, leaf nodes and internal nodes. Each node is conn
 
 Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node. In the above example, the node containing element 50 is the root node.
 
-Parent Node: The parent of any node is the node which references the current node. In the above example, 50 is the parent of 20 and 45, 20 is parent of 11, 46 and 15. Similarly 45 is the parent of 30 and 78.
+Parent Node: The parent of any node is the node which references the current node
 
-Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references. In the example above, 20 and 45 are children of 50. The nodes 11, 46, and 15 are children of 20 and 30 and 78 are children of 45.
-
-Edge: The reference through which a parent node is connected to a child node is called an edge. In the above example, each arrow that connects any two nodes is an edge.
-
-Leaf Node: These are those nodes in the tree which have no children. In the above example, 11, 46, 15, 30, and 78 are leaf nodes.
-
-Internal Nodes: Internal Nodes are the nodes which have at least one child. In the above example, 50, 20 and 45 are internal nodes.
-
-Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node. In the above example, the node containing element 50 is the root node.
-
-Parent Node: The parent of any node is the node which references the current node. In the above example, 50 is the parent of 20 and 45, 20 is parent of 11, 46 and 15. Similarly 45 is the parent of 30 and 78.
-
-Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references. In the example above, 20 and 45 are children of 50. The nodes 11, 46, and 15 are children of 20 and 30 and 78 are children of 45.
+Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references.
 
 Edge: The reference through which a parent node is connected to a child node is called an edge. In the above example, each arrow that connects any two nodes is an edge.
 
-Leaf Node: These are those nodes in the tree which have no children. In the above example, 11, 46, 15, 30, and 78 are leaf nodes.
+Leaf Node: These are those nodes in the tree which have no children.
 
-Internal Nodes: Internal Nodes are the nodes which have at least one child. In the above example, 50, 20 and 45 are internal nodes.
+Internal Nodes: Internal Nodes are the nodes which have at least one child. 
 
-Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node. In the above example, the node containing element 50 is the root node.
+Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node.
 
-Parent Node: The parent of any node is the node which references the current node. In the above example, 50 is the parent of 20 and 45, 20 is parent of 11, 46 and 15. Similarly 45 is the parent of 30 and 78.
+Parent Node: The parent of any node is the node which references the current node
+Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references.
 
-Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references. In the example above, 20 and 45 are children of 50. The nodes 11, 46, and 15 are children of 20 and 30 and 78 are children of 45.
+Edge: The reference through which a parent node is connected to a child node is called an edge. 
 
+Leaf Node: These are those nodes in the tree which have no children. 
+Internal Nodes: Internal Nodes are the nodes which have at least one child. 
+
+Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node.
+
+Parent Node: The parent of any node is the node which references the current node. 
+
+Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references. 
 Edge: The reference through which a parent node is connected to a child node is called an edge. In the above example, each arrow that connects any two nodes is an edge.
 
-Leaf Node: These are those nodes in the tree which have no children. In the above example, 11, 46, 15, 30, and 78 are leaf nodes.
+Leaf Node: These are those nodes in the tree which have no children.
 
-Internal Nodes: Internal Nodes are the nodes which have at least one child. In the above example, 50, 20 and 45 are internal nodes.
+Internal Nodes: Internal Nodes are the nodes which have at least one child.
 
-Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node. In the above example, the node containing element 50 is the root node.
+Root Node: Root node is the topmost node of a tree. It is always the first node created while creating the tree and we can access each element of the tree starting from the root node. 
 
-Parent Node: The parent of any node is the node which references the current node. In the above example, 50 is the parent of 20 and 45, 20 is parent of 11, 46 and 15. Similarly 45 is the parent of 30 and 78.
+Parent Node: The parent of any node is the node which references the current node.
 
-Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references. In the example above, 20 and 45 are children of 50. The nodes 11, 46, and 15 are children of 20 and 30 and 78 are children of 45.
+Child Node: Child nodes of a parent node are the nodes at which the parent node is pointing using the references.
 
-Edge: The reference through which a parent node is connected to a child node is called an edge. In the above example, each arrow that connects any two nodes is an edge.
+Edge: The reference through which a parent node is connected to a child node is called an edge. 
 
-Leaf Node: These are those nodes in the tree which have no children. In the above example, 11, 46, 15, 30, and 78 are leaf nodes.
+Leaf Node: These are those nodes in the tree which have no children. 
 
-Internal Nodes: Internal Nodes are the nodes which have at least one child. In the above example, 50, 20 and 45 are internal nodes.
+Internal Nodes: Internal Nodes are the nodes which have at least one child.
 
 ***binary tree***
-A binary tree is a tree data structure in which each node can have a maximum of 2 children.  It means that each node in a binary tree can have either one, or two or no children. Each node in a binary tree contains data and references to its children. Both the children are named as left child and the right child according to their position. The structure of a node in a binary tree is shown in the following figure.
-
+A binary tree is a tree data structure in which each node can have a maximum of 2 children.  It means that each node in a binary tree can have either one, or two or no children. Each node in a binary tree contains data and references to its children. Both the children are named as left child and the right child according to their position. 

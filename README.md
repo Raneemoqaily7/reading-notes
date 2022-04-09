@@ -46,5 +46,6 @@ ___
 |learning journal13|[What I Learned](./Learning_Journal13.md)|
 |read14|[Data Visualization](./read14.md)|
 |learnin journal14|[What I Learned](./learning_journal14.md)|
-|read15|[read15](./read15.md)
+|read15|[read15](./read15.md)|
+|learning_journal15|[What I Learned](./learning_journal15.md)|
 ---
