@@ -49,4 +49,5 @@ ___
 |read15|[read15](./read15.md)|
 |learning_journal15|[What I Learned](./learning_journal15.md)|
 |read16|[ Serverless Functions](./read16.md)|
+|learning_journal16|[What I Learned](./learning_journal16.md)|
 ---
