@@ -28,6 +28,8 @@ methods or operations of http request
 
 **API** : Application Programming Interface ==> a way of communication between frontend (Frontend(written by javascript language)) and backend (Server ) to transfer the data 
 
+- Main Difference between Cloud Server and Traditional Server
+
 | Cloud Server | Traditional Server |
 |----------|:-------------:|
 |It refers to delivery of different services such as data and programs through internet on different servers|It refers to delivery of different services on local server|
@@ -38,6 +40,28 @@ methods or operations of http request
 |It provides more storage space and servers as well as more computing power so that applications and software run must faster and effectively|It provides less storage as compared to cloud computing|
 |Cloud service is served by provider’s support team|It requires own team to maintain and monitor system that will need a lot of time and efforts|
 --
+
+## Servless Functions
+- cloud excution that enable simpler , and most - cost effective way to build cloud-native applications
+- Reducing Time , Complexity , effort ,expensivity  when deploying our applications .
+- if we are deploing a single function and we want other webapplecation to act with this function so there iss no need to buy a new server and set Ram's and storage for single or couple functions , so servless functions call only when we need it , once the functions excuted and  done , the charge will be based only for these functions that excuted . the charge will be only perusage.
+
+- its nearly zero configureation .
+
+
+
+
+
+Serverless functions are a single-purpose, programmatic feature of serverless computing — also simply called “serverless” — a cloud computing execution model where the cloud provider provisions computing resources on demand for its customers and manages all architectures, including cloud infrastructure. Yet despite its name, serverless computing still relies on cloud and physical servers to execute code, the difference being that it abstracts away the servers, operating systems and other infrastructure from developers.
+
+The use of serverless functions offers several significant benefits. It frees developers to focus on application development and better-quality application code, as infrastructure concerns, such as redundant code deployments and autoscaling, are handled by the serverless provider. The organization also saves money by only paying for the computing resources it uses instead of overprovisioning physical hardware or renting cloud instances that go unused.
+
+
+- If the reqquest is correct and there is no problems ==> 2XX (200 ,201 ,..)
+- If the request is not correct and ther is a problem from the client side ==> 4XX (404 ,403,..)
+- If the req/res is not correct and there is problem from the server side ==> 5XX (500 , ..)
+
+
 
 
 
