@@ -50,4 +50,5 @@ ___
 |learning_journal15|[What I Learned](./learning_journal15.md)|
 |read16|[ Serverless Functions](./read16.md)|
 |learning_journal16|[What I Learned](./learning_journal16.md)|
+|read17|[Web scraping ](./read17.md)|
 ---
