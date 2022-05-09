@@ -52,4 +52,6 @@ ___
 |learning_journal16|[What I Learned](./learning_journal16.md)|
 |read17|[Web scraping ](./read17.md)|
 |Learning_journal17|[What ILearned](./learning_journal17.md)|
+|learning journal|[What I Learned](./class26/learning_journal26.md)|
+
 ---
