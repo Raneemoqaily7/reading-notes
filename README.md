@@ -53,6 +53,7 @@ ___
 |read17|[Web scraping ](./read17.md)|
 |Learning_journal17|[What ILearned](./learning_journal17.md)|
 |learning journal|[What I Learned](./class26/learning_journal26.md)|
-|learning journal 27|[What I Learned](./class27/learning_journal.md)
+|learning journal27|[What I Learned](./class27/learning_journal.md)|
+|read28|[Django CRUD and Forms](./class28/read28.md)|
 
 ---
