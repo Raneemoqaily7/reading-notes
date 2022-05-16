@@ -13,6 +13,8 @@ The admin has many hooks for customization, but beware of trying to use those ho
 - Some Builtin models come withh django ==> user $ group
 
 ### ForeignKey
+- to link difernt models with specific model 
+
 - ForeignKey is a Django ORM field-to-column mapping for creating and working with relationships between tables in relational databases. ForeignKey is defined within the django.db.models.related module but is typically referenced from django.db.models rather than using the related module reference.
 
 `from django.contrib.auth import get_user_model`
