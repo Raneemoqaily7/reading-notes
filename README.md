@@ -56,5 +56,6 @@ ___
 |learning journal27|[What I Learned](./class27/learning_journal.md)|
 |read28|[Django CRUD and Forms](./class28/read28.md)|
 |learning journal28|[Django CRUD](./class28/learning_journal28.md)|
+|read29|[Django Custom User](./class29/read29.md)|
 
 ---
