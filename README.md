@@ -59,6 +59,6 @@ ___
 |read29|[Django Custom User](./class29/read29.md)|
 |Read| [Hash Tables](./Hash%20Tables.md)|
 |read31|[Django REST Framework & Docker](./class31/read31.md)|
-|read3|[Permissions](./class31/read32.md)|
+|read3|[Permissions](./class32/read32.md)|
 
 ---
