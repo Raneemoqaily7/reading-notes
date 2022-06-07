@@ -117,3 +117,17 @@ admin.site.register(CustomUser, CustomUserAdmin)
 (.venv) > python manage.py migrate
 ```
 
+
+
+## What is the difference between REST API and web API?
+A Web API or Web Service API is an application processing interface between a web server and web browser. All web services are APIs but not all APIs are web services. REST API is a special type of Web API that uses the standard architectural style explained above.
+
+
+- API stands for Application Programming Interface.
+
+- A Web API is an application programming interface for the Web.
+
+- A Browser API can extend the functionality of a web browser.
+
+- A Server API can extend the functionality of a web server.
+
