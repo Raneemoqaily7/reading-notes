@@ -50,4 +50,4 @@ plt.show()
 
 Output :
 
-[](https://s3.amazonaws.com/stackabuse/media/big-o-notation-and-algorithm-analysis-python-examples-1.png)
+(https://s3.amazonaws.com/stackabuse/medi/big-o-notation-and-algorithm-analysis-python-examples-1.png)
