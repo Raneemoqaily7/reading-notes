@@ -27,6 +27,7 @@ ___
 | SQL       |[SQL_Notes](./database%20and%20sql.md)|
 | Mindset     | [Mindset_Notes](./mindset..md)|
 |Prep: Career Coaching Status Report|[prep](./Prep%3ACareer%20Coaching.md)|
+|read1|[Big O](./read1.md)|
 |Read 4|[Class and Objects](./read4.md)|
 |LinkedList|[linkedlist](./linkedlist.md)|
 |read6|[Random Moudle and Risk Analysis](./read6.md)
